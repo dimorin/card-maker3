@@ -1,3 +1,31 @@
+# Card Maker 3
+![screenshot](./screenshot.png)
+<br>
+![screenshot](./screenshot2.png)
+
+## react-router-dom 6
+```bash
+// react-router-dom@6
+npm i react-router-dom
+```
+## firebase
+```bash
+npm i firebase
+```
+### Authentication
+[web google sign-in](https://firebase.google.com/docs/auth/web/google-signin?authuser=0)
+<br>
+[web github](https://firebase.google.com/docs/auth/web/github-auth?authuser=0)
+
+### Realtime Database
+[web read and write data](https://firebase.google.com/docs/database/web/read-and-write?authuser=0#web-version-9)
+
+### cloudinary
+[cloudinary media upload](https://cloudinary.com/documentation/upload_images#code_explorer_upload_multiple_files_using_a_form_unsigned)
+
+### deployment netlify
+[create-react-app.dev deployment netlify](https://create-react-app.dev/docs/deployment#netlify)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
