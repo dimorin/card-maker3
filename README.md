@@ -24,6 +24,9 @@ npm i firebase
 [cloudinary media upload](https://cloudinary.com/documentation/upload_images#code_explorer_upload_multiple_files_using_a_form_unsigned)
 
 ### deployment netlify
+```bash
+netlify deploy
+```
 [create-react-app.dev deployment netlify](https://create-react-app.dev/docs/deployment#netlify)
 
 # Getting Started with Create React App
